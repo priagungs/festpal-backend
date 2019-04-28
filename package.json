@@ -1,0 +1,32 @@
+{
+  "name": "festpal-backend",
+  "version": "1.0.0",
+  "description": "API services for Festpal application",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/priagungs/festpal-backend.git"
+  },
+  "keywords": [
+    "api",
+    "backend",
+    "festpal"
+  ],
+  "author": "rifo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/priagungs/festpal-backend/issues"
+  },
+  "homepage": "https://github.com/priagungs/festpal-backend#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "crypto-js": "^3.1.9-1",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.20"
+  }
+}
